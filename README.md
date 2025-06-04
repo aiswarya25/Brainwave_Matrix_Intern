@@ -7,6 +7,7 @@ The Fake News Detection Model uses machine learning techniques to classify news 
 --------------------------------------------------------
 
 Task 2 Text to image generation Application
+
 This application leverages generative models to transform textual descriptions into corresponding visual images.
 
 --------------------------------------------------------
